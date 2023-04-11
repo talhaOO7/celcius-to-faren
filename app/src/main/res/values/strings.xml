@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="to_binary">In °F:</string>
+    <string name="decimal_to_binary_converter">Enter Temperature in °C</string>
+    <string name="enter_a_decimal_value">Enter Temperature in °C</string>
+    <string name="todo">TODO</string>
+    <string name="convert">Convert</string>
+    <string name="clear">Clear</string>
+    <string name="enter_a_decimal_number">Enter Temperature in °C</string>
+</resources>
